@@ -225,7 +225,7 @@
   color: #58728c;
 }
 .fullscript-brand-guidelines .hero__section {
-  background: url(https://raw.githubusercontent.com/jtatstpd/branding/main/images/hero.jpg);
+  background: url(../images/hero.jpg);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
